@@ -10,6 +10,3 @@
     <img src="https://www.ranepa.ru/upload/iblock/22b/pic.png" alt="logo_stepik">
 </div>
 
----
-
-<div>thx bro <3</div>
